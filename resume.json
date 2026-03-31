@@ -1,0 +1,114 @@
+{
+    "titleNameMap": {
+        "educationList": "教育背景",
+        "workExpList": "工作经历",
+        "projectList": "项目经历",
+        "skillList": "个人技能",
+        "awardList": "更多信息",
+        "workList": "个人作品",
+        "aboutme": "自我介绍"
+    },
+    "avatar": {
+        "src": "https://pub-141831e61e69445289222976a15b6fb3.r2.dev/Image_to_url_V2/mmexport1761386189847-imagetourl.cloud-1774960240850-bimiso.jpg",
+        "hidden": false
+    },
+    "profile": {
+        "name": "王霆勋",
+        "email": "15853507138@163.com",
+        "mobile": "15853507138",
+        "github": "",
+        "zhihu": "",
+        "workExpYear": "",
+        "workPlace": "",
+        "positionTitle": ""
+    },
+    "educationList": [
+        {
+            "edu_time": [
+                "2022.09.01",
+                "2026.06.30"
+            ],
+            "school": "山东科技大学",
+            "major": "软件工程",
+            "academic_degree": "本科",
+            "dataIndex": 0
+        }
+    ],
+    "awardList": [],
+    "workExpList": [],
+    "skillList": [
+        {
+            "skill_name": "",
+            "skill_level": null,
+            "skill_desc": "获得全国普通话水平测试二级甲等证书，具备较强的综合工作能力，沟通表达清晰流畅，善于协调沟通，富有团队协作精神，责任心强，能够高效配合团队完成各项工作任务。",
+            "dataIndex": 0
+        },
+        {
+            "skill_name": "",
+            "skill_level": null,
+            "skill_desc": "参加蓝桥杯软件和信息技术专业人才大赛（C/C++程序设计类别 · 省级赛区），赛前系统开展C语言编程实战、算法逻辑优化及真题复盘训练；凭借扎实的代码实现能力与问题拆解思路，最终斩获省级三等奖，进一步强化了C语言底层逻辑语法应用程序调试及高效解决问题的能力。"
+        },
+        {
+            "skill_name": "",
+            "skill_level": null,
+            "skill_desc": "掌握 Java 面向对象程序设计，具备封装、继承、多态等核心编程思想，能够完成模块化、可复用的程序开发。熟练使用IDEA、GIT、Maven等开发工具，具有良好的编码习惯。",
+            "dataIndex": 2
+        },
+        {
+            "skill_name": "",
+            "skill_level": null,
+            "skill_desc": "熟悉 C、C++ 程序设计基础，理解结构化编程与面向对象编程思路，具备扎实的底层代码编写与逻辑实现能力。"
+        },
+        {
+            "skill_name": "",
+            "skill_level": null,
+            "skill_desc": "掌握 Web 系统与相关技术，了解前端与后端基础开发模式，能够参与简单 Web 应用的搭建与实现。"
+        },
+        {
+            "skill_name": "",
+            "skill_level": null,
+            "skill_desc": "熟练使用关系型数据库与 NoSQL 数据库，掌握数据存储、查询优化及数据库设计基本方法，具备数据处理能力。"
+        },
+        {
+            "skill_name": "",
+            "skill_level": null,
+            "skill_desc": "熟悉软件工程与软件开发流程，了解需求分析、系统设计、测试维护等规范，具备规范化项目开发意识。"
+        },
+        {
+            "skill_name": "",
+            "skill_level": null,
+            "skill_desc": "熟悉软件工程与软件开发流程，了解需求分析、系统设计、测试维护等规范，具备规范化项目开发意识。了解计算机组成原理与操作系统原理，掌握计算机底层运行机制，能够从系统层面理解和优化程序运行。",
+            "dataIndex": 9
+        },
+        {
+            "skill_name": "",
+            "skill_level": null,
+            "skill_desc": "在校期间积极参与校内各类志愿服务活动，具备较强的责任心与服务意识；热爱羽毛球运动，注重团队配合，拥有良好的身体素质和抗压能力。"
+        }
+    ],
+    "projectList": [
+        {
+            "project_time": "2025.07.11 - 2025.07 - 18",
+            "project_name": "基于目标检测技术的林业害虫防治识别系统",
+            "project_role": "",
+            "project_desc": "该项目旨在实现林业场景下害虫的快速识别与分类，为林业害虫防治提供智能化支持。项目完成了数据集标注与划分、YOLOv5 模型训练优化、Web 服务搭建、内网穿透部署及微信小程序开发，实现了图片上传、害虫目标检测、种类识别与结果返回的完整流程，可在移动端便捷使用，有效提升害虫识别效率与落地实用性。",
+            "project_content": "基于 YOLOv5 算法实现害虫目标检测与分类，使用 PyTorch 完成模型训练与推理；通过 Labelme 完成数据标注与数据集划分，借助 TensorBoard 监控训练指标；采用 Flask 搭建后端服务，PyWebIO 实现 Web 交互界面；基于 Linux 环境部署，使用花生壳实现内网穿透；并通过微信开发者工具完成小程序开发，运用 WXML/WXSS/JavaScript 实现前端交互与图片上传识别功能。",
+            "dataIndex": 0
+        },
+        {
+            "project_time": "2024.06.11 - 2024.06 - 23",
+            "project_name": "简易学生信息管理系统",
+            "project_role": "",
+            "project_desc": "基于 Java Web 开发的小型学生信息管理平台，实现学生信息的增删改查、数据查询筛选、账号登录验证等核心功能。项目从需求分析、数据库设计到编码实现独立完成，遵循软件工程规范进行模块划分与测试，保证系统稳定运行，提升了数据处理与业务逻辑实现能力。",
+            "project_content": "采用 Java 面向对象编程，使用 MySQL 进行关系型数据存储，结合基础 Web 技术实现页面交互与数据传输，运用数据结构优化数据查询逻辑，通过 JDBC 完成数据库连接与操作，具备完整的后端业务逻辑开发与简单前端展示能力。"
+        }
+    ],
+    "workList": [],
+    "aboutme": {
+        "aboutme_desc": "🌱 专注于软件开发项目管理与团队协作😈 能力项：沟通协调能力、执行力\n主修课程：面向对象程序设计（Java）、程序设计基础（C、C++）、Web系统与技术、数据库系统、数据结构、算法设计与分析、软件工程、计算机组成原理、操作系统、NoSQL数据库\n"
+    },
+    "theme": {
+        "color": "#2f5785",
+        "tagColor": "#8bc34a"
+    }
+}
